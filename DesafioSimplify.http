@@ -1,0 +1,6 @@
+@DesafioSimplify_HostAddress = http://localhost:5112
+
+GET {{DesafioSimplify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
